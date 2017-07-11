@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15G31" minimumToolsVersion="Xcode 7.0">
+    <entity name="Station" representedClassName=".Station" syncable="YES">
+        <attribute name="ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="aren" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lng" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sarea" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sbi" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sna" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Station" positionX="-63" positionY="-18" width="128" height="165"/>
+    </elements>
+</model>
