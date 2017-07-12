@@ -1,0 +1,33 @@
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "2ru-ap-sCg"; */
+"2ru-ap-sCg.title" = "個人資料";
+
+/* Class = "UISegmentedControl"; 3ZZ-Jo-lwP.segmentTitles[0] = "Standard"; ObjectID = "3ZZ-Jo-lwP"; */
+"3ZZ-Jo-lwP.segmentTitles[0]" = "標準";
+
+/* Class = "UISegmentedControl"; 3ZZ-Jo-lwP.segmentTitles[1] = "Satellite"; ObjectID = "3ZZ-Jo-lwP"; */
+"3ZZ-Jo-lwP.segmentTitles[1]" = "衛星";
+
+/* Class = "UISegmentedControl"; 3ZZ-Jo-lwP.segmentTitles[2] = "Hybrid"; ObjectID = "3ZZ-Jo-lwP"; */
+"3ZZ-Jo-lwP.segmentTitles[2]" = "混合";
+
+/* Class = "UILabel"; text = "Roy Hsu"; ObjectID = "IKW-jt-AzH"; */
+"IKW-jt-AzH.text" = "Roy Hsu";
+
+/* Class = "UIButton"; normalTitle = "Facebook Page"; ObjectID = "LUV-LY-pY0"; */
+"LUV-LY-pY0.normalTitle" = "前往Facebook頁面";
+
+/* Class = "UITabBarItem"; title = "Stations"; ObjectID = "QSJ-fZ-D7f"; */
+"QSJ-fZ-D7f.title" = "站點";
+
+/* Class = "UIButton"; normalTitle = "Log in with Facebook"; ObjectID = "cYK-Uc-vBO"; */
+"cYK-Uc-vBO.normalTitle" = "Log in with Facebook";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "fag-Gb-hst"; */
+"fag-Gb-hst.title" = "返回";
+
+/* Class = "UILabel"; text = "YouBike"; ObjectID = "g2M-gH-B09"; */
+"g2M-gH-B09.text" = "YouBike";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "nKO-BR-moA"; */
+"nKO-BR-moA.text" = "Title";
